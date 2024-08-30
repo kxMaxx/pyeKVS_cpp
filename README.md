@@ -6,7 +6,6 @@ This project includes a pyeKVS implementation in c++ and a demo program for test
 Created by Dr. Sylvio Schneider
 
 ## pyeKVS format specification
-see [pyeKVS_Spec.md](pyeKVS_Spec.md)  
 Version: 1.0  
 Date: 01.03.2021  
 License:  [MIT](http://opensource.org/licenses/MIT)  
